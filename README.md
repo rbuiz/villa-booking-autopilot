@@ -8,6 +8,14 @@ AI-бот для бронирования вилл в Telegram. Автомати
 
 ![Статус проекта](https://img.shields.io/badge/status-рабочий-4CAF50) ![Лицензия](https://img.shields.io/badge/license-MIT-blue) ![Платформа](https://img.shields.io/badge/платформа-Albato-FF6B35)
 
+![Telegram](https://img.shields.io/badge/🤖_Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
+![AI](https://img.shields.io/badge/🧠_AI_Assistant-OpenAI-412991)
+![No-Code](https://img.shields.io/badge/🚀_No--Code_Platform-Albato-FF6B35)
+![Wazzup](https://img.shields.io/badge/💬_Messaging-Wazzup-00C300)
+![amoCRM](https://img.shields.io/badge/📊_CRM-amoCRM-0052CC)
+![Google Sheets](https://img.shields.io/badge/📈_Database-Google_Sheets-34A853)
+![Google Calendar](https://img.shields.io/badge/📅_Calendar-Google_Calendar-4285F4)
+
 ---
 
 ## 📌 Навигация
