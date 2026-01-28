@@ -11,7 +11,7 @@ AI-бот для бронирования вилл в Telegram. Автомати
   
   <p style="margin: 0 0 10px 0; font-size: 16px;">
     <strong>Рабочий пример этой автоматизации:</strong><br/>
-    <a href="https://t.me/sedmoi_dom_booking_bot" target="_blank" style="font-size: 18px; color: #0ea5e9; text-decoration: none;">@sedmoi_dom_booking_bot
+    <a href="https://t.me/sedmoi_dom_booking_bot" target="_blank" style="font-size: 18px; color: #0ea5e9; text-decoration: none;">@sedmoi_dom_booking_bot<br />
       <strong>👉 Седьмой Дом - ассистент по аренде 👈</strong>
     </a>
   </p>
