@@ -6,6 +6,30 @@ AI-бот для бронирования вилл в Telegram. Автомати
 
 > **Не теряйте больше ни одного лида. Запустите авто-менеджера за выходные.** ⚡
 
+
+### **🏡 AI-менеджер для бронирования вилл в Крыму**
+**Автоматизация первичных продаж, которая увеличивает прибыль на 20-35%**
+
+<div align="center" style="margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%); border-radius: 12px; border: 1px solid #bae6fd;">
+  
+  <h3 style="margin: 0 0 15px 0; color: #0369a1;">🚀 Живая демонстрация</h3>
+  
+  <p style="margin: 0 0 10px 0; font-size: 16px;">
+    <strong>Рабочий пример этой автоматизации:</strong><br/>
+    <a href="https://t.me/CrimeaBookingBot" target="_blank" style="font-size: 18px; color: #0ea5e9; text-decoration: none;">
+      <strong>👉 @CrimeaBookingBot 👈</strong>
+    </a>
+  </p>
+  
+  <p style="margin: 0; font-size: 14px; color: #475569;">
+    Напишите боту, чтобы увидеть всю систему в действии — от диалога до проверки дат.
+  </p>
+  
+</div>
+
+> **Не теряйте больше ни одного лида. Запустите такого же авто-менеджера за выходные.** ⚡
+
+
 ![Telegram](https://img.shields.io/badge/🤖_Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
 ![AI](https://img.shields.io/badge/🧠_AI_Assistant-OpenAI-412991)
 ![No-Code](https://img.shields.io/badge/🚀_No--Code_Platform-Albato-FF6B35)
