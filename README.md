@@ -88,7 +88,8 @@ AI-бот для бронирования вилл в Telegram. Автомати
 
 <p align="center">
   <a href="/docs/architecture.svg" target="_blank">
-    style="width: 100%; max-width: 100%; height: auto; 
+      <img src="/docs/architecture.svg" alt="Архитектура AI-бота для бронирования"
+       style="width: 100%; max-width: 100%; height: auto; 
               display: block; margin: 0 auto;
               border: 1px solid #e5e5e5; border-radius: 12px;
               background: #fafafa; box-shadow: 0 4px 12px rgba(0,0,0,0.05);"/>
