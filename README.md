@@ -234,7 +234,7 @@ AI-бот для бронирования вилл в Telegram. Автомати
 | Артефакт | Назначение | Где искать |
 |:---|:---|:---|
 | **1. Системная инструкция для AI (текст)** | **Резервная полная текстовая инструкция** для настройки любого AI-ассистента, если GPT перестанет работать | [`/prompts/full_system_instruction.txt`](/prompts/full_system_instruction.txt) |
-| **2. Системный промпт для текущего AI** | Оптимизированная инструкция для текущей версии GPT/аналога | [`/prompts/system_prompt_full.md`](/prompts/system_prompt_full.md) |
+| **2. Системный промпт для текущего AI** | Оптимизированная инструкция для текущей версии GPT/аналога | [`/prompts/system_prompt_full.txt`](/prompts/system_prompt_full.txt) |
 | **3. База знаний (FAQ)** | Ответы на частые вопросы, правила бронирования, политики | [`/prompts/knowledge_base.md`](/prompts/knowledge_base.md) |
 | **4. Каталог домов в JSON** | Все объекты в структурированном формате для AI-ассистента | [`/prompts/catalog_houses.json`](/prompts/catalog_houses.json) |
 | **5. Apps Script для Google Sheets** | Скрипт проверки доступности дат и записи брони с подробными комментариями | [`/docs/apps_script_guide.md`](/docs/apps_script_guide.md) |
