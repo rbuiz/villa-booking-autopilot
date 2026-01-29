@@ -26,15 +26,11 @@ AI-бот для бронирования вилл в Telegram. Автомати
 </div>
 
 
-<!-- Плавающее меню -->
-<div style="position: sticky; top: 0; background: white; z-index: 1000; padding: 15px; border-bottom: 2px solid #e5e7eb; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.05);">
-<details>
-<summary><b>🔍 Быстрая навигация</b></summary>
-<div style="margin-top: 10px;">
-[💰 Метрики](#-рост-прибыли-и-ключевые-метрики) • [⚙️ Функции](#️-что-делает-автоматизация) • [👀 Скриншоты](#-как-это-выглядит-на-практике) • [⚡ Запуск](#-план-запуска) • [❓ FAQ](#-частые-вопросы)
-</div>
-</details>
-</div>
+<!-- НАЧАЛО: Обертка для контента с плавающим меню -->
+<div style="display: grid; grid-template-columns: 1fr 300px; gap: 40px; position: relative;">
+  
+  <!-- Левый столбец: Основной контент -->
+  <div id="main-content" style="width: 100%;">
 
 
 ---
@@ -477,6 +473,99 @@ AI-бот для бронирования вилл в Telegram. Автомати
 3.  **Начните с [Плана запуска](#-план-запуска)** — первая настройка займёт у вас меньше времени, чем один потерянный клиент
 
 **Не упускайте возможности. Запускайте.**
+
+
+
+
+
+  </div> <!-- Закрываем левый столбец -->
+  
+  <!-- Правый столбец: Плавающее меню -->
+  <div style="position: sticky; top: 20px; height: fit-content; max-height: 90vh; overflow-y: auto; padding-right: 10px;">
+    
+<!-- САМО МЕНЮ -->
+<div style="background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%); padding: 20px; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+
+<h3 style="margin-top: 0; color: #1e293b; border-bottom: 2px solid #3b82f6; padding-bottom: 10px;">
+  🧭 Навигация
+</h3>
+
+<div style="margin: 15px 0; font-size: 14px;">
+  <a href="#-рост-прибыли-и-ключевые-метрики" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #10b981; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    💰 <strong>Метрики</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">+20-35% прибыли</div>
+  </a>
+
+  <a href="#️-что-делает-автоматизация" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #3b82f6; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    ⚙️ <strong>Функции</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">Что делает система</div>
+  </a>
+
+  <a href="#-проблемы-которые-мы-решаем" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #f59e0b; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    😫 <strong>Проблемы</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">Что устраняем</div>
+  </a>
+
+  <a href="#-как-это-работает-визуальная-схема" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #8b5cf6; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    ⚡ <strong>Схема</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">Архитектура системы</div>
+  </a>
+
+  <a href="#-как-это-выглядит-на-практике" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: #eff6ff; border-left: 4px solid #2563eb; border: 2px solid #3b82f6; transition: all 0.2s;">
+    👀 <strong>Скриншоты</strong>
+    <div style="color: #3b82f6; font-size: 12px; margin-top: 3px; font-weight: 500;">12 реальных скринов</div>
+  </a>
+
+  <a href="#-функционал-бота" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #06b6d4; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    ✅ <strong>Функционал</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">8 ключевых действий</div>
+  </a>
+
+  <a href="#-готовые-интеграции" style="display: block; color: #334155; text-decoration: none; padding: 10px 12px; margin: 6px 0; border-radius: 8px; background: white; border-left: 4px solid #84cc16; transition: all 0.2s; box-shadow: 0 2px 5px rgba(0,0,0,0.03);">
+    🔗 <strong>Интеграции</strong>
+    <div style="color: #64748b; font-size: 12px; margin-top: 3px;">6 готовых связок</div>
+  </a>
+</div>
+
+<hr style="border-color: #e2e8f0; margin: 20px 0;">
+
+<div style="margin: 20px 0;">
+  <a href="#-план-запуска" style="display: block; color: #1e293b; text-decoration: none; padding: 12px 15px; margin: 8px 0; border-radius: 8px; background: linear-gradient(90deg, #f0f9ff 0%, #e0f2fe 100%); border: 1px solid #bae6fd; font-weight: 600;">
+    ⚡ <strong>Быстрый запуск</strong>
+    <div style="color: #0369a1; font-size: 12px; margin-top: 3px;">5 этапов за 4-6 часов</div>
+  </a>
+
+  <a href="#-частые-вопросы" style="display: block; color: #1e293b; text-decoration: none; padding: 12px 15px; margin: 8px 0; border-radius: 8px; background: linear-gradient(90deg, #f0fdf4 0%, #dcfce7 100%); border: 1px solid #bbf7d0; font-weight: 600;">
+    ❓ <strong>Частые вопросы</strong>
+    <div style="color: #15803d; font-size: 12px; margin-top: 3px;">Ответы на главные вопросы</div>
+  </a>
+</div>
+
+<hr style="border-color: #e2e8f0; margin: 20px 0;">
+
+<div style="text-align: center; font-size: 13px; color: #64748b;">
+  <p style="margin-bottom: 10px; font-weight: 600;">📌 Быстрые действия</p>
+  <div style="display: flex; gap: 8px; justify-content: center;">
+    <a href="https://t.me/sedmoi_dom_booking_bot" style="color: #0ea5e9; text-decoration: none; padding: 6px 12px; background: #f0f9ff; border-radius: 6px; border: 1px solid #bae6fd; font-size: 12px;">
+      🤖 Бот
+    </a>
+    <a href="https://github.com/rbuiz/villa-booking-autopilot/issues" style="color: #f59e0b; text-decoration: none; padding: 6px 12px; background: #fef3c7; border-radius: 6px; border: 1px solid #fde68a; font-size: 12px;">
+      🐛 Issues
+    </a>
+    <a href="#readmemd" style="color: #8b5cf6; text-decoration: none; padding: 6px 12px; background: #f5f3ff; border-radius: 6px; border: 1px solid #ddd6fe; font-size: 12px;">
+      ⬆️ Наверх
+    </a>
+  </div>
+</div>
+
+</div> <!-- Закрываем блок меню -->
+    
+  </div> <!-- Закрываем правый столбец -->
+</div> <!-- Закрываем grid-контейнер -->
+<!-- КОНЕЦ: Плавающее меню -->
+
+
+
 
 ---
 *Последнее обновление: январь 2026 года | Версия 1.0 | [Лицензия MIT](LICENSE)*
